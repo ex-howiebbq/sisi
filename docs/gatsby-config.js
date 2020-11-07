@@ -8,8 +8,8 @@ module.exports = {
       options: {
         ...themeOptions,
         root: __dirname,
-        subtitle: 'Client (React)',
-        description: 'A guide to using the Apollo GraphQL Client with React',
+        subtitle: 'Research methodology',
+        description: 'A handbook for beginner research',
         githubRepo: 'ex-howiebbq/sisi',
         defaultVersion: '3.0',
         versions: {
@@ -30,7 +30,6 @@ module.exports = {
             'index',
             'why-apollo',
             'get-started',
-            '[Changelog](https://github.com/apollographql/apollo-client/blob/master/CHANGELOG.md)',
           ],
           'Fetching': [
             'data/queries',
