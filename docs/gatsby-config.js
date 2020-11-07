@@ -10,7 +10,7 @@ module.exports = {
         root: __dirname,
         subtitle: 'Client (React)',
         description: 'A guide to using the Apollo GraphQL Client with React',
-        githubRepo: 'apollographql/apollo-client',
+        githubRepo: 'ex-howiebbq/sisi',
         defaultVersion: '3.0',
         versions: {
           '2.6': 'version-2.6',
